@@ -49,7 +49,7 @@ function Header() {
             fontSize="2xl"
             sx={{ transform: "rotate(-4deg)" }}
           >
-            Talk to Developers!
+            Talk to strangers!
           </Text>
         </Flex>
         <Flex ml={"auto"} display={{ base: "none", md: "unset" }}>
