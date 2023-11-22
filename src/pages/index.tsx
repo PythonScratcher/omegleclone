@@ -22,12 +22,9 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>OmeDEV: Talk to developers!</title>
+        <title>Omegle: Talk to strangers!</title>
         <link rel="icon" href="/icon.png" type="image/png" />
-        <meta
-          name="description"
-          content="The Internet is full of cool developers; OmeDEV lets you meet them. When you use OmeDEV, we pick someone else at random so you can have a one-on-one chat."
-        />
+        
       </Head>
       <Grid
         templateRows="max-content 1fr"
