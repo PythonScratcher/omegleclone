@@ -41,10 +41,9 @@ function Intro({ onSubmit }: IntroProps) {
       <br />
 
       <Text>
-        OmeDEV (oh·me·dev) is a great way to meet new developers. When you use
-        OmeDEV, you are paired randomly with another person to talk one-on-one.
-        If you prefer, you can add your interests and you’ll be randomly paired
-        with someone who selected some of the same interests.
+        Omegle, is a place where you get to meet pedos and stuff but dont
+        because i dont want a sue speed run pls!! (A.H.) 
+        if you want to sue me, email me at 5neo@tuta.io and i will ignore it
       </Text>
 
       <br />
@@ -70,7 +69,7 @@ function Intro({ onSubmit }: IntroProps) {
         borderColor={borderColor}
       >
         <Text textAlign="center">
-          Developed by Mateus Abelli. Check out the{" "}
+          Based on OmeDEV{" "}
           <Link
             href="https://github.com/mateusabelli/omedev"
             rel="noreferrer"
@@ -89,7 +88,7 @@ function Intro({ onSubmit }: IntroProps) {
             What do you wanna talk about?
           </Text>
 
-          <Tooltip label="This feature is unavailable at the moment...">
+          <Tooltip label="hell nah...">
             <Input
               disabled
               placeholder="Add your interests (Optional)"
@@ -119,7 +118,7 @@ function Intro({ onSubmit }: IntroProps) {
             </Text>
 
             <Flex direction={"column"}>
-              <Tooltip label="Developers don't like this type of interaction...">
+              <Tooltip label="do you think i want to be sued??">
                 <Button
                   height={"60px"}
                   width={"150px"}
